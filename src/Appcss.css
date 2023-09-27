@@ -1,0 +1,53 @@
+.padding {
+    padding: 0px;
+    background-image: "./pages/lambo1.jpg";
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.carboy {
+    height: 100px;
+    width: 100px;
+}
+
+.autodeploy {
+    width: 100%;
+    height: 400px;
+    background: #000;
+    background: url('./pages/lambo1.jpg');
+    /* background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; */
+    background-repeat: round;
+}
+
+.autodeploy2 {
+    width: 100%;
+    height: 1000px;
+    background-image: url('./pages/lambo2.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.next1lvl21000 {
+    padding: 0px 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.lamboslist {
+    background: -webkit-repeating-linear-gradient(#000);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: aqua;
+}
+
+.lambo-container {
+    width: 200px;
+    padding: 5px;
+    background-color: blueviolet;
+}
+
+.next1lvl21000 .lamboimage {
+    width: -webkit-fill-available;
+    border: dashed;
+}
