@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    script: 'react-scripts start',
+    script: 'npm serve -s build -p 3000',
     watch: '.'
   }, {
     script: './service-worker/',
