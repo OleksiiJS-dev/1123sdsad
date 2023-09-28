@@ -1,1 +1,1 @@
-npx serve 3000
+npm start 3000
